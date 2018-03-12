@@ -50,4 +50,11 @@ class LandingsRecord extends \yii\db\ActiveRecord
             'link_header' => 'Link Header',
         ];
     }
+    
+    public function getLandingsaudithory()
+    {
+     
+        return $this->hasMany(LandingsaudithoryRecord::className(),['landing_id'=>'id']);
+   
+    }
 }
