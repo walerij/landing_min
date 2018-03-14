@@ -63,7 +63,9 @@ class LandingController extends Controller
     public function actionIndex()
     {
         $landing = LandingsRecord::find()->where('1')->all();
-        return $this->render('index',
-                ['landings'=>$landing,]);
+        $land_index='index';
+        
+        return $this->render($land_index,
+                ['landings'=>$landing]);
     }
 }
