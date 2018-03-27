@@ -22,6 +22,16 @@ $this->title = 'Мой Лендинг';
 
                                        <?php $this->endContent();
                                        ?>
+    <?php
+    if ($landing->slider=='yes') {
+    $this->beginContent('@app/views/landing/themes/'.$landing->theme.'/slider.php',
+        ['landing'=>$landing]); ?>
+
+    ...child layout content here...
+
+    <?php $this->endContent();
+    }
+    ?>
 </div>
 <? } ?>
 

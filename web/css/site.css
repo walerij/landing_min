@@ -125,3 +125,37 @@ a.desc:after {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
+/*стили лендинга*/
+.avatarka {
+    height: 100px;
+}
+.header{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/99/90/9257fb3cf459c0d.jpg);
+    /*url(img_style/slider_fon_header.png);*/
+}
+.logo_png{
+    height: 75px;
+}
+
+.text_header {
+    color: white
+}
+.about li
+{ list-style: none}
+
+.for_course li, .result li
+{ list-style: none}
+.result li
+{ list-style: none}
+
+.price_style{
+    border: 1px solid green;
+    /* border-style: solid;*/
+    border-radius: 5px;
+    text-align: center;
+
+
+}
+
+/*конец стилей лендингов*/
