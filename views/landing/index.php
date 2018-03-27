@@ -24,3 +24,7 @@ $this->title = 'Мой Лендинг';
                                        ?>
 </div>
 <? } ?>
+
+<div class="land_head">
+    dsfdsfs
+</div>

@@ -24,7 +24,10 @@ body {
 .jumbotron {
     text-align: center;
     background-color: transparent;
+    color: #0000aa;
+
 }
+.jumbotron h1{color: #0000aa;}
 
 .jumbotron .btn {
     font-size: 21px;
@@ -112,4 +115,11 @@ a.desc:after {
 
 .nav > li > form > button.logout:focus {
     outline: none;
+}
+
+.land_head{
+    color: #00aa00;
+    background: url("../images/logo1.png");
+    width: 100px;
+    height: 100px;
 }
