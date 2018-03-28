@@ -17,7 +17,7 @@
         <div class="carousel-inner">
             <!-- Слайд 1 -->
             <div class="item active">
-                <img src="/images/voronka_slider/slider_fon.png" alt="fonchik">
+                <img src="../web/images/voronka_slider/slider_fon.png" alt="fonchik">
                 <div class="carousel-caption">
                     <img src="https://www.videosharp.info/users/791/avatar/791_avatar_1.jpg" alt="avatarka" class="avatarka">
                     <h3>Жданов Валерий </h3>
@@ -29,7 +29,7 @@
 
             <!-- Слайд 2 -->
             <div class="item">
-                <img src="img/slider_fon.png" alt="fonchik">
+                <img src="../web/images/voronka_slider/slider_fon.png" alt="fonchik">
                 <div class="carousel-caption">
                     <img src="https://www.videosharp.info/users/7119/avatar/7119_avatar_1.jpg" alt="avatarka" class="avatarka">
                     <h3>Новопашин Владимир </h3>
@@ -38,7 +38,7 @@
             </div>
             <!-- Слайд 3 -->
             <div class="item">
-                <img src="img/slider_fon.png" alt="fonchik">
+                <img src="../web/images/voronka_slider/img/slider_fon.png" alt="fonchik">
                 <div class="carousel-caption">
                     <img src="https://www.videosharp.info/users/10558/avatar/10558_avatar_1.png" alt="avatarka" class="avatarka">
                     <h3>Иван Воронин </h3>
