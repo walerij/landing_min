@@ -1,5 +1,7 @@
-  
 
+<div class="body-content">
+
+</div>
 <div class="body-content">
 
         <div class="row">
