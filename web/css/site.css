@@ -168,4 +168,9 @@ a.desc:after {
 }
 .about_author
 {padding: 40px; font-size: 1.5em }
+
+.badge-info {
+    background-color: #3a87ad;
+}
+.about-course-row {text-align: center}
 /*конец стилей лендингов*/

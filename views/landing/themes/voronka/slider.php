@@ -62,41 +62,7 @@
             </a>
         </div>
     </div>
-    <div class="row">
-        <h1>Выберите свой вариант</h1>
-        <div class="price_style col-lg-3 col-lg-offset-1  col-md-3 col-md-offset-1  col-sm-3 col-sm-offset-1  col-xs-3 col-xs-offset-1 ">
-            <h3> Цена 1</h3>
-            <div class="bg-primary">
-                <h4>360 руб</h4>
-            </div>
-            <h4>на 5 дней</h4>
-            <h4>Курс 1</h4>
-            <h4></h4>
-        </div>
 
-        <div class="col-lg-3 col-lg-offset-1  col-md-3 col-md-offset-1  col-sm-3 col-sm-offset-1  col-xs-3 col-xs-offset-1  price_style">
-            <h3> Цена 2</h3>
-            <div class="bg-primary">
-                <h4>1000 руб</h4>
-            </div>
-            <h4>15 дней</h4>
-            <h4>Курс 1</h4>
-            <h4>Крус 'Мультиязычное меню JS' в подарок </h4>
-        </div>
 
-        <div class="col-lg-3 col-lg-offset-1  col-md-3 col-md-offset-1  col-sm-3 col-sm-offset-1  col-xs-3 col-xs-offset-1 price_style">
-            <h3> Цена 3</h3>
-            <div class="bg-primary">
-                <h4>2000 руб</h4>
-            </div>
-            <h4>30 дней</h4>
-            <h4>Курс 1</h4>
-            <h4>Крус 'EF' в подарок </h4>
-        </div>
-
-    </div>
-    <div class="row">
-        <a class="btn btn-success" href="#" title="Подписка"><h2>Подписаться</h2></a>
-    </div>
 
 </div>
