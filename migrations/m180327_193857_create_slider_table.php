@@ -14,8 +14,10 @@ class m180327_193857_create_slider_table extends Migration
     {
         $this->createTable('slider', [
             'id' => $this->primaryKey(),
-            'landing_id' =>$this->inteder(),
-            'link'=>$this->string(), //ссылка на какртинку
+            'landing_id' =>$this->integer(),
+            'link'=>$this->string(),
+            'title'=>$this->string(),
+            'info'=>$this->string(),
 
         ]);
     }

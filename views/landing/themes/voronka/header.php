@@ -15,30 +15,7 @@
              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                  <div class="col-lg-8 col-md-8 col-sm-9 col-xs-9 about">
                      <H4><?=$landing->landing_info;?></H4>
-                    <!-- <p>
-                         Авторы:
-                     </p>
-                     <ul>
-                         <li>
-                             <i class="glyphicon glyphicon-ok text-success"></i>&nbsp;&nbsp;
-                             ASP.NET MVC
-                         </li>
-                         <li>
-                             <i class="glyphicon glyphicon-ok text-success"></i>&nbsp;&nbsp;
-                             C#
-                         </li>
-                         <li>
-                             <i class="glyphicon glyphicon-ok text-success"></i>&nbsp;&nbsp;
-                             ООП
-                         </li>
-                         <li>
-                             <i class="glyphicon glyphicon-ok text-success"></i>&nbsp;&nbsp;
-                             HTML&CSS
-                         </li>
-                         <li> <i class="glyphicon glyphicon-ok text-success"></i>&nbsp;&nbsp;
-                             Bootstrap
-                         </li>
-                     </ul>-->
+
 
                  </div>
                  <div class="col-lg-4 col-md-4 col-sm-3 col-xs-3">
@@ -47,19 +24,7 @@
                  </div>
              </div>
          </div>
-         <div class="row">
-             <h2>Автор:</h2>
 
-             <div class="row about_author bg-warning">
-
-                     <img src='https://www.videosharp.info/users/1/avatar/1_avatar_1.png' alt='no'  class="logo_png img-circle"  >
-
-
-                     Евгений Волосатов
-
-             </div>
-
-         </div>
 
      </div>
  </div>
